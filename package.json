@@ -13,7 +13,7 @@
     "glob": "^8.1.0",
     "vite": "^6.3.5"
   },
-  "author": " ",
+  "author": "David",
   "license": "ISC",
   "dependencies": {
     "body": "^5.1.0",
